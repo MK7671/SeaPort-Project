@@ -2,15 +2,15 @@
 
 ### The goals are:
 1. Required data structure - the data structure specified in Project 1:
-      World has SeaPort's
-      SeaPort has Dock's, Ship's, and Person's
-      Dock has a Ship
-      Ship has Job's
-      PassengerShip
-      CargoShip
-      Person has a skill
-      Job requires skills - optional until Project 3
-      PortTime
+      - World has SeaPort's
+      - SeaPort has Dock's, Ship's, and Person's
+      - Dock has a Ship
+      - Ship has Job's
+      - PassengerShip
+      - CargoShip
+      - Person has a skill
+      - Job requires skills - optional until Project 3
+      - PortTime
 2. Use the HashMap class to support efficient linking of the classes used in Project 1.
     1. The instances of the hash map class should be local to the readFile (Scanner) method.
     2. These instances should be passed as explicit parameters to other methods used when reading the data file.

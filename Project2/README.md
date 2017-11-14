@@ -1,5 +1,6 @@
 # Project 2: Sort the structure, use hash maps to create the structure more efficiently.
 
+### The goals are:
 1. Required data structure - the data structure specified in Project 1:
       World has SeaPort's
       SeaPort has Dock's, Ship's, and Person's

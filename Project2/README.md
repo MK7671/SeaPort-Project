@@ -31,3 +31,6 @@
 4. Extend the GUI from Project 1 to allow the user to:
     - sort by the comparators defined in part 2.
 5. Again, the GUI elements should be distinct from the other classes in the program.
+
+![screen shot 2017-11-13 at 9 10 31 pm](https://user-images.githubusercontent.com/20687661/32759370-1ef2c628-c8b7-11e7-9526-423b133ff47f.png)
+

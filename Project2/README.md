@@ -14,9 +14,12 @@
     1. The instances of the hash map class should be local to the readFile (Scanner) method.
     2. These instances should be passed as explicit parameters to other methods used when reading the data file.
         1. For example, the body of the methods like the following should be replaced to effectively use a <Integer, Ship> hash map, the             surrounding code needs to support this structure:
+        
+        ```
             Ship getShipByIndex (int x, java.util.HashMap <Integer, Ship> hms) {
               return hms.get(x);
             } // end getDockByIndex
+        ```    
             
         2. Since the body of this method has become trivial, perhaps the call to this method can be simply replaced by the get method of the HashMap.
         3. Your code should be sure to handle a null return from this call gracefully.

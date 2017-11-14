@@ -1,7 +1,7 @@
 
 # Project 1: Read a data file, create the internal data structure, create a GUI to display the structure, and let the user search the structure.
 
-## The goals are:
+### The goals are:
 1. Create a GUI
 2. Let the user select a data file, using JFileChooser
 3. Read the data file, creating the specified internal data structure (see the Introduction for the classes and variables of the structure).

@@ -14,3 +14,5 @@
     3. Note that a search may return more than one item
     4. DO NOT create new data structures (beyond the specified internal data structure) to search
        you may create a structure of found items as a return value
+
+![project1](https://user-images.githubusercontent.com/20687661/32873725-a7aa1b4c-ca5b-11e7-8e03-f5cafaa346bd.png)

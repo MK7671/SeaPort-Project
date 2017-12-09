@@ -30,3 +30,6 @@ The project will be graded according the criteria for the final project - see be
     - Use JButton's on the Job panel to allow the job to be suspended or cancelled.
 4. As before, the GUI elements should be distinct (as appropriate) from the other classes in the program.
 5. See the code at the end of this posting for some suggestions.
+
+![1](https://user-images.githubusercontent.com/20687661/33797608-83c91f42-dd4e-11e7-8d1d-0574dce81c2d.png)
+![2](https://user-images.githubusercontent.com/20687661/33797611-8dbb252c-dd4e-11e7-881a-39fcdcb06208.png)

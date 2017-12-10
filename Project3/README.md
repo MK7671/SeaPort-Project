@@ -1,4 +1,4 @@
-## Project 3
+# Project 3
 
 Implement threads and a GUI interface using advanced Java Swing classes.
 The project will be graded according the criteria for the final project - see below.
